@@ -47,7 +47,7 @@ To use Sugarspy, you need to run the main Python script if not using Docker. The
 Here is an example of how to run the script:
 ```python3 main.py -a cookie -f /path/to/image.jpg -p 8080 -r /image -s```
 ## Legal Disclamer
-By using the repository, you acknowledge that you have read this [Disclaimer](https://github.com/marco-liberale/sugarspy/blob/main/legal_disclamer.pdf) and agree to be bound by the terms hereof.
+By using the repository, you acknowledge that you have read this [Disclaimer](https://github.com/marco-liberale/sugarspy/blob/main/legal_disclamer.md) and agree to be bound by the terms hereof.
 If you do not agree to abide by the above, please do not use the repository.
 
 Enjoy :)
