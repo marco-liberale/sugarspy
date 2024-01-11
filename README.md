@@ -48,7 +48,7 @@ Here is an example of how to run the script:
 ```
 python3 main.py -a cookie -f /path/to/image.jpg -p 8080 -r /image -s
 ```
-In this case the url would look like: https://URL/image?cookie=Cookieinfo
+In this case the url would look like: https://URL:8080/image?cookie=Cookieinfo
 
 ## Legal Disclamer
 By using the repository, you acknowledge that you have read this [Disclaimer](https://github.com/marco-liberale/sugarspy/blob/main/legal_disclamer.md) and agree to be bound by the terms hereof.
