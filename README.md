@@ -38,7 +38,7 @@ To install Sugarspy, follow these steps:
 
 To use Sugarspy, you need to run the main Python script if not using Docker. The script accepts several command-line arguments:
 
-- `-a, --arg`: The cookie argument to get from the request (default is "c").
+- `-a, --arg`: The cookie argument to get from the request (default is "c" e.g https://URL/c=Cookieinfo).
 - `-f, --path`: The path to the image file to serve (default is "image.jpg").
 - `-p, --port`: The port to run the server on (default is "80").
 - `-r, --route`: The route to serve the image on (default is "/").
