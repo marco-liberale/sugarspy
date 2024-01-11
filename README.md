@@ -42,7 +42,7 @@ To use Sugarspy, you need to run the main Python script if not using Docker. The
 - `-f, --path`: The path to the image file to serve (default is "image.jpg").
 - `-p, --port`: The port to run the server on (default is "80").
 - `-r, --route`: The route to serve the image on (default is "/").
-- `-s, --serve_image`: A flag to determine whether to serve the image or not (default is False).
+- `-s, --serve_image`: A flag to determine whether to serve the image or not if disabled it will grab the cookie and return 404: not found (default is False).
 
 Here is an example of how to run the script:
 ```
