@@ -50,9 +50,5 @@ python3 main.py -a cookie -f /path/to/image.jpg -p 8080 -r /image -s
 ```
 In this case the URL would look like: https://URL:8080/image?cookie=Cookieinfo
 
-## Legal Disclamer
-By using the repository, you acknowledge that you have read this [Disclaimer](https://github.com/marco-liberale/sugarspy/blob/main/legal_disclamer.md) and agree to be bound by the terms hereof.
-If you do not agree to abide by the above, please do not use the repository.
-
 Enjoy :)
 
